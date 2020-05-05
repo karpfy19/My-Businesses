@@ -1,3 +1,3 @@
 # My-Businesses
 
-Check us out here: [www.google.com](Google)
+Check us out here: [Google](www.google.com)
