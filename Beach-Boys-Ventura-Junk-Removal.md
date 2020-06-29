@@ -10,7 +10,7 @@ Before we can adequately define “junk removal” we must consider what each wo
 
 Junk (n.) – (1) any old or discarded material, as metal, paper, or rags, (2) anything that is regarded as worthless, meaningless, or contemptible; trash.
 
-Removal (n.) – (1) the act of removing, (2) change of residence, position, etc. (Source: http://www.dictionary.com)
+Removal (n.) – (1) the act of removing, (2) change of residence, position, etc. 
 
 Although the junk definition is correct, it’s only partially true. You might have donatable items, still in great condition, which can be recycled reused and otherwise redistributed. (i.e. Goodwill, i guess Habitat ReStore).
 
