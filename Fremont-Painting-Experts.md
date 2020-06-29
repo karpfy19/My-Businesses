@@ -2,7 +2,7 @@ Fremont Painting Experts
 
 41489 Timber Creek Terrace, Fremont, CA 94539
 
-www.fremont-painters.com
+[Fremont painters]www.fremont-painters.com
 
 5107676454
 
@@ -121,6 +121,7 @@ To win work, contractors generally have to bid against other suppliers. To make 
 Planning
 
 When their bids are successful, contractors meet customers to finalize their requirements and plan the order and timing of work. Contractors estimate the time required for surface preparation, painting several coats and drying time between coats. For interior painting jobs, they might have to allow time for clearing rooms. Exterior painting schedules might be dependent on the weather in different parts of the country. Exterior painting is not practical in very wet or very cold conditions.
+
 Preparation
 
 Thorough preparation is essential to ensure a good finish. Contractors might have to fill cracks or holes and remove old paint if it is badly worn, peeling or flaking. They remove all paint and apply a suitable primer to the bare surface. If the existing paint is in reasonable condition, they clean it and rub it with abrasive material to provide a key for the new paint. On new surfaces, such as bare wood or fresh plaster, they apply a suitable seal, followed by a primer coat.
